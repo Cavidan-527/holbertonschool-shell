@@ -1,1 +1,1 @@
-Shell basics description
+Shell basics and  description
